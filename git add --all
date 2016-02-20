@@ -1,0 +1,7 @@
+git add --all
+git add . recent file add 
+git rm -f app/Http/routes*
+git push origin master 
+git comment "wiillcomment"
+git status 
+git log 
