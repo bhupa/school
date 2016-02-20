@@ -29,3 +29,9 @@ Route::get('/', function () {
 Route::group(['middleware' => ['web']], function () {
     //
 });
+Route::get('/', function () {
+    return view('hellone[al');
+});
+Route::get('/', function () {
+    return view('nepal');
+});
